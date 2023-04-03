@@ -1,0 +1,1 @@
+1. Create a spring boot project using Spring Initializer. Add web and thyme-leaf dependencies. Create a view that will contain the following phrase "Good afternoon, the temperature today is x degrees, where x will be the parameter passed to the controller, the word degrees should be highlighted in the circle, which is also a parameter.
